@@ -1,0 +1,18 @@
+<!DODCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Produtos - Barbearia alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><lag src="logo.png"></h1>
+
+            <ul>
+                <li><a href="index.html"></a></li>
+                <li>Produto</li>
+                <li>contato</li>
+        </header>
+    </body>
+</html>
